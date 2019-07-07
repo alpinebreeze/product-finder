@@ -1,9 +1,13 @@
 {
   "name": "product-finder",
   "version": "1.0.0",
-  "description": "",
+  "description": "A component that dynamically creates a set of filters to help users find a product",
   "keywords": [],
-  "author": "",
+  "author": "Richard Adams",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alpinebreeze/product-finder.git"
+  },
   "license": "ISC",
   "main": "index.js",
   "scripts": {
